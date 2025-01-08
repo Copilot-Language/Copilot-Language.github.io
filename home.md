@@ -32,7 +32,7 @@ fields of an existential type UExpr, which were largely unused outside of
 Copilot's internals.
 
 The new implementation is compatible with versions of GHC from 8.6 to 9.10, as
-well as with the Stackage Nightly.
+well as with Stackage Nightly.
 
 This release has been made possible thanks to key submissions from Frank Dedden
 (@fdedden), Ryan Scott (@RyanGlScott), and Kyle Beech (@kaBeech), the last of
