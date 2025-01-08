@@ -35,7 +35,7 @@ The new implementation is compatible with versions of GHC from 8.6 to 9.10, as
 well as with Stackage Nightly.
 
 This release has been made possible thanks to key submissions from Frank Dedden
-(@fdedden), Ryan Scott (@RyanGlScott), and Kyle Beech (@kaBeech), the last of
+(@fdedden), Ryan Scott (@RyanGlScott), and Kyle Beechly (@kaBeech), the last of
 which is also a first-time contributor to the project. We are grateful to them
 for their timely contributions, especially during the holidays, and for making
 Copilot better every day. We also want to thank the attendees of Zurihac 2024
